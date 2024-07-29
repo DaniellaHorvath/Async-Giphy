@@ -1,3 +1,6 @@
+# .env variable
+API_KY = "BqYcyLO0Sa7rtEuaiu4dN9U2cb8Ws1uD"
+
 # Logs
 logs
 *.log
