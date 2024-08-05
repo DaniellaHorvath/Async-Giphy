@@ -1,7 +1,5 @@
-# # .env variable
-# API_KY = "BqYcyLO0Sa7rtEuaiu4dN9U2cb8Ws1uD"
+
 # .env variable
-const = API_KY = "abcd123456789"
 
 # Logs
 logs

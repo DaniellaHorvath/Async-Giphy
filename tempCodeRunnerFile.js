@@ -1,0 +1,1 @@
+https://api.giphy.com/v1/gifs/search?api_key=${process.env.API_KEY}&q=${query}
